@@ -1,0 +1,17 @@
+{
+    "name": "dev/calendario",
+    "description": "Calendario com PHP e Javascript",
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "../class",
+            "Models\\": "../model"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arsenio Langa",
+            "email": "arseniosergiolanga@gmail.com"
+        }
+    ],
+    "require": {}
+}
